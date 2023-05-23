@@ -1,4 +1,4 @@
-<img src="images/first_banner.svg" title="About Me" alt="About Me" style="margin: 0 !important;" />
+<img src="images/about_me_banner.png" title="About Me" alt="About Me" style="margin: 0 !important;" />
 <br />
 <h4 align="left"><b>Languages, Frameworks and Tools</b></h4>
 <p align="left">
