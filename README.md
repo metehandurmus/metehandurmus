@@ -1,5 +1,4 @@
 <img src="images/about_me_banner.png" title="About Me" alt="About Me" style="margin: 0 !important;" />
-<br />
 <h4 align="left"><b>Languages, Frameworks and Tools</b></h4>
 <p align="left">
    <img src="https://skillicons.dev/icons?i=python,java,js,cs,cpp,django,flask,selenium,spring,jquery,react,redux,dotnet,arduino,aws,firebase,sqlite,postgresql,mysql,html,css,bootstrap,tailwind,postman,git,github,linux,photoshop,illustrator,xd,figma,wordpress" alt="My Skills" title="My Skills" />
