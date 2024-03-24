@@ -13,5 +13,5 @@
 <a href="https://www.hackerrank.com/metehandurmuus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="metehandurmuus" height="45" width="45" /></a>
 </p>
 <hr />
-<img style="margin: 0 !important;" align="left" height="175px"  src="https://github-readme-stats.vercel.app/api?username=metehandurmus&show_icons=true&hide_border=true&locale=en" alt="metehandurmus" />
-<img style="margin: 0 !important;" align="right" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs?username=metehandurmus&show_icons=true&hide_border=true&locale=en&layout=compact" alt="metehandurmus" />
+<img style="margin: 0 !important;" align="left" width="40%"  src="https://github-readme-stats.vercel.app/api?username=metehandurmus&show_icons=true&hide_border=true&locale=en" alt="metehandurmus" />
+<img style="margin: 0 !important;" align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=metehandurmus&show_icons=true&hide_border=true&locale=en&layout=compact" alt="metehandurmus" />
